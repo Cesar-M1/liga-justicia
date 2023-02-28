@@ -2,14 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-
-### Actualizado desde los servidores de github
-
-## Nuevos cambios de temporada
-
-## Cambios nuevos desde el repositorio de GitHub
-## Me salio el error, probando....
+# Nuevos cambios de temporada
