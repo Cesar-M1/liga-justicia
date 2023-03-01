@@ -6,3 +6,4 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Sirenoman y chico persebe
